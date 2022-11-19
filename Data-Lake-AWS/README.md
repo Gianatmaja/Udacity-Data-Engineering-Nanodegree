@@ -3,8 +3,10 @@ In this project, we'll build an ETL pipeline for a data lake hosted on S3. The E
 
 ## Structure
 The files located in this repository are listed below:
-- etl.py: Python script that will execute the ELT pipelines.
-- dl.cfg: Configuration file that contains relevant AWS account information.
+
+    .
+    ├── etl.py            # Python script that will execute the ETL pipelines.
+    └── dwh.cfg           # Configuration file that contains relevant AWS account information.
 
 ## Database Schema
 The final database schema used for Sparkify's analytical purposes will follow a star schema design, as it is denormalised and hence, optimised for analytical queries. 
