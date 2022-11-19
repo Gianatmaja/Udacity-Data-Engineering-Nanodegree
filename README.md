@@ -25,3 +25,6 @@ In this project, we'll build an ETL pipeline for a data lake hosted on S3. The E
 In this project, we'll build data pipelines using Apache Airflow to automate the data warehouse ETL process. For the ETL process, the source data resides in S3, and is transferred into a data warehouse hosted on Amazon Redshift.
 
 [Go to repo](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/tree/main/Data-Pipelines-Apache-Airflow)
+
+### Project 6: Enhancing the I94 Immigration Data with External Data Sources
+In this capstone project, we'll be enhancing the I94 with external data, such as the world temperature and US city demographic data. These data will be integrated into a database, following a star schema data model.
