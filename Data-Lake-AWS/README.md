@@ -1,7 +1,7 @@
 # Spark and Data Lake
 In this project, we'll build an ETL pipeline for a data lake hosted on S3. The ETL pipeline will load data from S3, process the data into analytics tables using Spark, and load them back into S3. This Spark process will be deployed on a cluster using AWS.
 
-## Structure
+## Project Structure
 The main files in this repository are listed below:
 
     .
