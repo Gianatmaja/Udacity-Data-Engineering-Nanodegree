@@ -9,12 +9,13 @@ In this project, the objective is to create a Postgres database with tables desi
 
 ### Contents
 Below is a description of the files contained in this repository:
-- create_tables.py: Running this Python script will create blank tables in the database.
-- etl.ipynb: This Jupyter Notebook will illustrate the ETL process by performing it a subset of the data.
-- etl.py: Running this Python script will perform the ETL process on the whole dataset.
-- sql_queries.py: This Python script contains the SQL commands used to create, fill, and drop the tables in the database.
-- test.ipynb: This Jupyter Notebook contains several SQL queries to test whether the tables have been correctly created and inputted.
-- Data (Folder): This folder contains songs and logs data in JSON format.
+
+    .
+    ├── create_tables.py  # Running this Python script will create blank tables in the database.
+    ├── etl.py            # Running this Python script will perform the ETL process on the whole dataset.
+    ├── sql_queries.py    # This Python script contains the SQL commands used to create, fill, and drop the tables in the database.
+    ├── etl.ipynb         # This Jupyter Notebook will illustrate the ETL process by performing it a subset of the data.
+    └── test.ipynb        # This Jupyter Notebook contains several SQL queries to test whether the tables have been correctly created and inputted.
 
 Notes:
 - To read the JSON files, use `pd.read_json()`. For example, `pd.read_json('data/song_data/A/A/A/TRAAAAW128F429D538.json', lines=True)`
