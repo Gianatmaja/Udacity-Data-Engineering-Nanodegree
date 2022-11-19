@@ -1,12 +1,14 @@
 # Project 3: Implementing a Cloud Data Warehouse
 In this project, logs and songs data are extracted from s3 and staged in Redshift, before being inserted into dimensional tables for Sparkify's analytics purposes.
 
-## Structure
+## Project Structure
 The files located in this repository are listed below:
-- create_tables.py: Python script that will create tables upon executed.
-- etl.py: Python script that will execute the ETL pipelines.
-- sql_queries.py: Python script that contains all the SQL queries.
-- dwh.cfg: Configuration file that contains relevant information on the Redshift cluster, IAM ROLE and s3 data path.
+
+    .
+    ├── create_tables.py  # Python script that will create tables upon executed.
+    ├── etl.py            # Python script that will execute the ETL pipelines.
+    ├── sql_queries.py    # Python script that contains all the SQL queries.
+    └── dwh.cfg           # Configuration file that contains relevant information on the Redshift cluster, IAM ROLE and s3 data path.
 
 ## Database Schema
 The final database schema used for Sparkify's analytical purposes will follow a star schema design, as it is denormalised and hence, optimised for analytical queries. 
