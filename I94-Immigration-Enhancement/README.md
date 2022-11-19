@@ -3,6 +3,18 @@
 ### Project Overview
 This project will build up a data warehouse as a [single-source-of-truth](https://en.wikipedia.org/wiki/Single_source_of_truth) database by integrating data from different data sources.
 
+The structure of this repository can be viewed below.
+
+    .
+    ├── data/                       # Folder containing some of the data, samples, and labels used
+    ├── images/                     # Contains images for project documentation
+    ├── Capstone_Project.ipynb      # Main project notebook
+    ├── etl.py                      # ETL script to load data
+    ├── capstone.cfg                # Config file
+    ├── Data Dictionary.xlsx        # Complete data dictionary
+    └── README.md
+
+
 ### Scope of the Project
 
 This project will integrate I94 immigration data, world temperature data and US demographic data to setup a data warehouse with fact and dimension tables.
