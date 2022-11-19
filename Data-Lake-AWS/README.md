@@ -1,5 +1,5 @@
 # Spark and Data Lake
-In this project, logs and songs data will undergo the ELT process for the usage of Sparkify.
+In this project, we'll build an ETL pipeline for a data lake hosted on S3. The ETL pipeline will load data from S3, process the data into analytics tables using Spark, and load them back into S3. This Spark process will be deployed on a cluster using AWS.
 
 ## Structure
 The files located in this repository are listed below:
