@@ -2,7 +2,7 @@
 In this project, we'll be building an ETL pipeline to load data from S3 to staging tables on Amazon Redshift. We'll also execute SQL statements that create the analytics tables from these staging tables.
 
 ## Project Structure
-The files located in this repository are listed below:
+The main files in this repository are listed below:
 
     .
     ├── create_tables.py  # Python script that will create tables upon executed.
