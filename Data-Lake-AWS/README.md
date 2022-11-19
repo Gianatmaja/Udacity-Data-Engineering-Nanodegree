@@ -13,3 +13,7 @@ The final database schema used for Sparkify's analytical purposes will follow a 
 
 ## ELT Process
 The ELT process is done by spark and all the codes can be found on the etl.py file.
+
+There are 2 main functions, namely:
+1. `process_song_data`: Load raw data from S3 buckets to Spark stonealone server and process song dataset to insert record into songs and artists dimension table.
+2. 1process_log_data`: Load raw data from S3 buckets to Spark stonealone server and Process event(log) dataset to insert record into time and users dimensio table and songplays fact table
