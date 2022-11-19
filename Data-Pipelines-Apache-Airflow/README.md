@@ -4,6 +4,8 @@ In this project, we'll build data pipelines using Apache Airflow to automate the
 ### Project Structure
 
 ### Airflow DAG Pipeline
+Below is the Airflow DAG pipeline used in this project
+![Dag](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/Data-Pipelines-Apache-Airflow/images/Screenshot%202022-11-19%20at%203.26.54%20PM.png)
 
 ### Database Schema
 We'll be using a star schema for our data, with the following data model.
