@@ -22,14 +22,14 @@ Here's a snapshot of the data dictionary. The complete file is available [here](
 ![dict](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/I94-Immigration-Enhancement/images/dict.png)
 
 ### Future Scenarios
-1. The data was increased by 100x.
+1. The data was increased by 100x:
     If Spark with standalone server mode can not process 100x the current data set, we could consider to store the data in [AWS EMR](https://aws.amazon.com/emr/).
 
 
-2. The data populates a dashboard that must be updated on a daily basis by 7am every day.
+2. The data populates a dashboard that must be updated on a daily basis by 7am every day:
     [Apache Airflow](https://airflow.apache.org) could be used to automate an ETL data pipeline to regularly update the data.
 
 
-3. The database needed to be accessed by 100+ people.
+3. The database needed to be accessed by 100+ people:
     [AWS Redshift](https://aws.amazon.com/tw/redshift/?nc2=h_ql_prod_db_rs&whats-new-cards.sort-by=item.additionalFields.postDateTime&whats-new-cards.sort-order=desc) can handle up to 500 connections, and might be the suitable storage if the database needs to be accessed by a lot of users.
 
