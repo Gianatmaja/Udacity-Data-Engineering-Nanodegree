@@ -10,3 +10,5 @@ In this project, we'll be modelling data using Apache Cassandra and building an 
 ### Project 3: Implementing a Cloud Data Warehouse
 In this project, we'll be building an ETL pipeline to load data from S3 to staging tables on Amazon Redshift. We'll also execute SQL statements that create the analytics tables from these staging tables.
 
+### Project 4: Data Lake on AWS
+In this project, we'll build an ETL pipeline for a data lake hosted on S3. The ETL pipeline will load data from S3, process the data into analytics tables using Spark, and load them back into S3. This Spark process will be deployed on a cluster using AWS.
