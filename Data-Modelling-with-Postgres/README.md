@@ -37,4 +37,4 @@ First, the list of all JSON filenames containing the logs and songs data are col
 Next, columns are grouped based on which tables they'll go into. Further, time related information are also extracted and preprocessed.
 
 #### Load
-Finally, data is inserted to their respective Postgres table using the INSERT INTO queries.
+Finally, data is inserted to their respective Postgres table using the `INSERT INTO` queries.
