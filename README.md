@@ -12,3 +12,6 @@ In this project, we'll be building an ETL pipeline to load data from S3 to stagi
 
 ### Project 4: Data Lake on AWS
 In this project, we'll build an ETL pipeline for a data lake hosted on S3. The ETL pipeline will load data from S3, process the data into analytics tables using Spark, and load them back into S3. This Spark process will be deployed on a cluster using AWS.
+
+### Project 5: Data Pipelines using Apache Airflow
+In this project, we'll build data pipelines using Apache Airflow to automate the data warehouse ETL process. For the ETL process, the source data resides in S3, and is transferred into a data warehouse hosted on Amazon Redshift.
