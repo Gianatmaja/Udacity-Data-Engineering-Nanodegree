@@ -7,8 +7,8 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 ### Objective
 In this project, the objective is to create a Postgres database with tables designed to optimize queries on song play analysis. To achieve this, we will define fact and dimension tables for a star schema, and write an ETL pipeline that transfers data from JSON files in two local directories into these tables in Postgres using Python and SQL.
 
-### Contents
-Below is a description of the files contained in this repository:
+### Project Structure
+The main files in this repository are listed below:
 
     .
     ├── create_tables.py  # Running this Python script will create blank tables in the database.
