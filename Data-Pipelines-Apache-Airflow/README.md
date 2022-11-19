@@ -6,3 +6,5 @@ In this project, we'll build data pipelines using Apache Airflow to automate the
 ### Airflow DAG Pipeline
 
 ### Database Schema
+We'll be using a star schema for our data, with the following data model.
+![Schema](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/Data-Pipelines-Apache-Airflow/images/Screenshot%202022-03-05%20at%203.27.01%20PM%203.17.51%20PM.png)
