@@ -1,5 +1,5 @@
 # Project 1: Data Modelling with Postgres
-This project is part of the Udacity Data Engineering Nanodegree program.
+In this project, we'll be creating a database schema and building an ETL pipeline using Python and SQL. The ETL pipeline will then be used to transfer data from json logs in local directories into tables in Postgres.
 
 ### Background
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
