@@ -2,6 +2,15 @@
 In this project, we'll build data pipelines using Apache Airflow to automate the data warehouse ETL process. For the ETL process, the source data resides in S3, and is transferred into a data warehouse hosted on Amazon Redshift.
 
 ### Project Structure
+The main structure of this repository is listed below.
+
+    .
+    ├── dags                            
+    │  ├── udac_example_dag.py    # Main DAG for this ETL data pipeline
+    ├── plugins                
+    │  ├── _helpers/              # Helper functions
+    │  ├── operators/             # Airflow operators
+    └── README.md
 
 ### Airflow DAG Pipeline
 Below is the Airflow DAG pipeline used in this project
