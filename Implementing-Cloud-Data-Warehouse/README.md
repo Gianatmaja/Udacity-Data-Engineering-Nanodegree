@@ -1,5 +1,5 @@
 # Project 3: Implementing a Cloud Data Warehouse
-In this project, logs and songs data are extracted from s3 and staged in Redshift, before being inserted into dimensional tables for Sparkify's analytics purposes.
+In this project, we'll be building an ETL pipeline to load data from S3 to staging tables on Amazon Redshift. We'll also execute SQL statements that create the analytics tables from these staging tables.
 
 ## Project Structure
 The files located in this repository are listed below:
