@@ -18,7 +18,7 @@ We propose a star schema data model to support OLAP and BI activities. Our propo
 ![schema](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/I94-Immigration-Enhancement/images/Picture1.png)
 
 ### Data Dictionary
-Here's a snapshot of the data dictionary. The complete file is available here.
+Here's a snapshot of the data dictionary. The complete file is available [here](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/I94-Immigration-Enhancement/Data%20Dictionary.xlsx).
 ![dict](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/I94-Immigration-Enhancement/images/dict.png)
 
 ### Future Scenarios
