@@ -1,4 +1,4 @@
-# Project: Data Modelling with Postgres
+# Project 1: Data Modelling with Postgres
 This project is part of the Udacity Data Engineering Nanodegree program.
 
 ### Background
