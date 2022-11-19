@@ -18,7 +18,7 @@ Below is a description of the files contained in this repository:
 
 Notes:
 - To read the JSON files, use `pd.read_json()`. For example, `pd.read_json('data/song_data/A/A/A/TRAAAAW128F429D538.json', lines=True)`
-- To run the Python scripts, open up a terminal and type in the command `python <filename.py`. For example. `python  create_tables.py`.
+- To run the Python scripts, open up a terminal and type in the command `python <filename.py>`. For example. `python  create_tables.py`.
 
 ### Data Model
 Below is an ERD diagram of the PostgreSQL database designed for Sparkify.
