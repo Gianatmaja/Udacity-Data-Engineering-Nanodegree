@@ -6,3 +6,7 @@ In this project, we'll be creating a database schema and building an ETL pipelin
 
 ### Project 2: Data Modelling with Apache Cassandra
 In this project, we'll be modelling data using Apache Cassandra and building an ETL pipeline using Python. The ETL pipeline will transfer data from a set of csv files within a directory into Apache Cassandra tables.
+
+### Project 3: Implementing a Cloud Data Warehouse
+In this project, we'll be building an ETL pipeline to load data from S3 to staging tables on Amazon Redshift. We'll also execute SQL statements that create the analytics tables from these staging tables.
+
