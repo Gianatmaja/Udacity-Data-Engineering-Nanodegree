@@ -1,7 +1,7 @@
 # Project 6: Enhancing the I94 Immigration Data with External Data Sources
 
 ### Project Overview
-This project will build up a data warehouse as a [single-source-of-truth](https://en.wikipedia.org/wiki/Single_source_of_truth) database by integrating data from different data sources.
+This project will build up a data warehouse as a [single-source-of-truth](https://en.wikipedia.org/wiki/Single_source_of_truth) database by integrating data from different data sources. This project will provide the foundation for future analysis regarding possible relationships between a country's immigration and arrival statistics, and its temperature and population demographics.
 
 The structure of this repository can be viewed below.
 
