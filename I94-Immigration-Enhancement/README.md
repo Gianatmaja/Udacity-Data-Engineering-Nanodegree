@@ -38,8 +38,12 @@ The Python script `quality_checks.py` can be used to perform data quality checks
 #### Data Schema Check
 The results after running the `quality_checks.py` file are as follows.
 
+![check1](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/I94-Immigration-Enhancement/images/Check1.png)
+
 #### Data Completeness Check
 The results after running the `quality_checks.py` file are as follows.
+
+![Check2](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/I94-Immigration-Enhancement/images/Check2.png)
 
 ### Data Dictionary
 Here's a snapshot of the data dictionary. The complete file is also available [here](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/I94-Immigration-Enhancement/Data%20Dictionary.xlsx).
