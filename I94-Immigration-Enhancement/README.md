@@ -31,7 +31,7 @@ We propose a star schema data model to support OLAP and BI activities. Our propo
 
 ### Data Dictionary
 Here's a snapshot of the data dictionary. The complete file is also available [here](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/I94-Immigration-Enhancement/Data%20Dictionary.xlsx).
-![dict](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/I94-Immigration-Enhancement/images/Data_Dictionary.png)
+
 
 ### Future Scenarios
 1. The data was increased by 100x:
