@@ -27,7 +27,7 @@ This project will integrate I94 immigration data, world temperature data and US 
 
 ### Data Model
 We propose a star schema data model to support OLAP and BI activities. Our proposed data model can be viewed below.
-![schema](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/I94-Immigration-Enhancement/images/StarSchema.png)
+![schema](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/I94-Immigration-Enhancement/images/DataModel.png)
 
 ### Data Dictionary
 Here's a snapshot of the data dictionary. The complete file is also available [here](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/I94-Immigration-Enhancement/Data%20Dictionary.xlsx).
