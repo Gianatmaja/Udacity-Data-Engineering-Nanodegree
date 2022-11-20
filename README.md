@@ -27,6 +27,6 @@ In this project, we'll build data pipelines using Apache Airflow to automate the
 [Go to repo](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/tree/main/Data-Pipelines-Apache-Airflow)
 
 ### Project 6: Enhancing the I94 Immigration Data with External Data Sources
-In this capstone project, we'll be enhancing the I94 with external data, such as the world temperature and US city demographic data. These data will be integrated into a database, following a star schema data model.
+In this project, we'll be enhancing the I94 with external data, such as the world temperature and US city demographic data. These data will be integrated into a database, following a star schema data model.
 
 [Go to repo](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/tree/main/I94-Immigration-Enhancement)
