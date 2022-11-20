@@ -29,6 +29,18 @@ This project will integrate I94 immigration data, world temperature data and US 
 We propose a star schema data model to support OLAP and BI activities. Our proposed data model can be viewed below.
 ![schema](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/I94-Immigration-Enhancement/images/DataModel.png)
 
+### Running the ETL Pipelines
+The Python script `etl.py` can be used to insert the data into the destination tables according to the above data model.
+
+### Performing Data Quality Checks
+The Python script `quality_checks.py` can be used to perform data quality checks after running the ETL pipeline. More specifically, there are 2 checks that will be performed. The first will be to check whether the destination tables match the desired schema. The second would be to confirm that all rows are completely filled with data.
+
+#### Data Schema Check
+The results after running the `quality_checks.py` file are as follows.
+
+#### Data Completeness Check
+The results after running the `quality_checks.py` file are as follows.
+
 ### Data Dictionary
 Here's a snapshot of the data dictionary. The complete file is also available [here](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/I94-Immigration-Enhancement/Data%20Dictionary.xlsx).
 ![dict](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/I94-Immigration-Enhancement/images/Datadictionary.png)
