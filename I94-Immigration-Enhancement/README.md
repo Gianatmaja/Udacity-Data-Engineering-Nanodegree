@@ -10,6 +10,7 @@ The structure of this repository can be viewed below.
     ├── images/                     # Contains images for project documentation
     ├── Capstone_Project.ipynb      # Main project notebook
     ├── etl.py                      # ETL script to load data
+    ├── quality_checks.py           # Testing scripts to check whether ETL has been done correctly
     ├── capstone.cfg                # Config file
     ├── Data Dictionary.xlsx        # Complete data dictionary
     └── README.md
@@ -45,7 +46,7 @@ Here's a snapshot of the data dictionary. The complete file is also available [h
 
 ### Future Scenarios
 1. The data was increased by 100x:
-    If Spark with standalone server mode can not process 100x the current data set, we could consider to store the data in [AWS EMR](https://aws.amazon.com/emr/).
+    If Spark (with standalone server) cannot process 100 times the current data set, we could consider to store the data in [AWS EMR](https://aws.amazon.com/emr/).
 
 
 2. The data populates a dashboard that must be updated on a daily basis by 7am every day:
