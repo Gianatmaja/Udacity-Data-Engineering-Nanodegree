@@ -26,7 +26,9 @@ This project will integrate I94 immigration data, world temperature data and US 
 |[US City Demographic Data](https://public.opendatasoft.com/explore/dataset/us-cities-demographics/export/)| CSV | Contains information about the demographics of US cities and census-designated places with a population greater or equal to 65,000.|
 
 ### Data Model
-We propose a star schema data model to support OLAP and BI activities. Our proposed data model can be viewed below.
+We propose a star schema data model to support OLAP and BI activities. This data model will support future analysis regarding the potential relationships of arrival statistics and a country's temperature as well as its population demographics.
+
+Our proposed data model can be viewed below.
 ![schema](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/I94-Immigration-Enhancement/images/DataModel.png)
 
 ### Running the ETL Pipelines
