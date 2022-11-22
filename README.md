@@ -31,5 +31,5 @@ In this project, we'll be enhancing the I94 with external data, such as the worl
 
 [Go to repo](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/tree/main/I94-Immigration-Enhancement)
 
-### Certificate of Completion
+## Certificate of Completion
 ![certificate](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/images/Certificate.png)
