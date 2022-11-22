@@ -30,3 +30,6 @@ In this project, we'll build data pipelines using Apache Airflow to automate the
 In this project, we'll be enhancing the I94 with external data, such as the world temperature and US city demographic data. This project will provide the foundation for future analysis regarding possible relationships between a country's immigration and arrival statistics, and its temperature and population demographics.
 
 [Go to repo](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/tree/main/I94-Immigration-Enhancement)
+
+### Certificate of Completion
+![certificate](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/images/Certificate.png)
