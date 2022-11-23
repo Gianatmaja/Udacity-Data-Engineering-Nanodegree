@@ -24,7 +24,7 @@ Notes:
 ### Data Model
 Below is an ERD diagram of the PostgreSQL database designed for Sparkify.
 
-![ERD Diagram of Sparkify Database](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/Data-Modelling-with-Postgres/DataModel.png)
+![ERD Diagram of Sparkify Database](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/images/Datamodel.png)
 
 As observed in the diagram, we used a star schema with 1 fact tables, songplays, and 4 dimension tables, namely songs, users, artists and time. In the diagram, the PK of each table is formatted with bold, while FKs are underlined.
 
