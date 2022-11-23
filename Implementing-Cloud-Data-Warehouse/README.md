@@ -13,7 +13,7 @@ The main files in this repository are listed below:
 ## Database Schema
 The final database schema used for Sparkify's analytical purposes will follow a star schema design, as it is denormalised and hence, optimised for analytical queries. 
 
-![Database Schema](Screenshot 2022-03-05 at 3.27.01 PM.png)
+![Database Schema](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/images/Datamodel.png)
 
 ## Process
 An overview of the ETL process is as follows:
