@@ -23,4 +23,4 @@ Below is the Airflow DAG pipeline used in this project
 
 ### Database Schema
 We'll be using a star schema for our data, with the following data model.
-![Schema](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/Data-Pipelines-Apache-Airflow/images/Screenshot%202022-03-05%20at%203.27.01%20PM%203.17.51%20PM.png)
+![Schema](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/images/Datamodel.png)
