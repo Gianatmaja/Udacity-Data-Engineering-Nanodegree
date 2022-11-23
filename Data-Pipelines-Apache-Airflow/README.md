@@ -14,7 +14,7 @@ The main structure of this repository is listed below.
 
 ### Airflow DAG Pipeline
 Below is the Airflow DAG pipeline used in this project
-![Dag](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/Data-Pipelines-Apache-Airflow/images/Screenshot%202022-11-19%20at%203.26.54%20PM.png)
+![Dag](https://github.com/Gianatmaja/Udacity-Data-Engineering-Nanodegree/blob/main/images/Dag.png)
 
 1. `Begin_execution` & `End_execution`: Dummy operators at data pipeline end points.
 2. `Stage_events` & `Stage_songs`: Extract/Transform data from S3 to Redshift to create staging tables.
